@@ -1,0 +1,13 @@
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\bin\Debug\Project 1 Shopping List.exe.config
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\bin\Debug\Project 1 Shopping List.exe
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\bin\Debug\Project 1 Shopping List.pdb
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\bin\Debug\Project 1 Shopping List.xml
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.vbproj.AssemblyReference.cache
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.vbproj.SuggestedBindingRedirects.cache
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project_1_Shopping_List.Form1.resources
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project_1_Shopping_List.Resources.resources
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.vbproj.GenerateResource.cache
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.vbproj.CoreCompileInputs.cache
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.exe
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.xml
+C:\Users\choi_\source\repos\Project 1 Shopping List\Project 1 Shopping List\obj\Debug\Project 1 Shopping List.pdb
